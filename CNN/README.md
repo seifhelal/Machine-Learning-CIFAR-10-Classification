@@ -25,25 +25,45 @@ Average ACCR between two mdels is: 87.8% accuracy.
 - Keras:
 
 CCRn of airplane is: 0.940000 
+
 CCRn of automobile is: 0.978000 
+
 CCRn of bird is: 0.906000
+
 CCRn of cat is: 0.839000
+
 CCRn of deer is: 0.940000 
-CCRn of dog is: 0.868000 
+
+CCRn of dog is: 0.868000
+
 CCRn of frog is: 0.961000 
+
 CCRn of horse is: 0.934000 
+
 CCRn of ship is: 0.958000 
+
 CCRn of truck is: 0.949000
+
 
 - Own Implmentation:
 
 - CCRn of airplane is: 0.873000
+
 - CCRn of automobile is: 0.883000
+
 - CCRn of bird is: 0.752000
+
 - CCRn of cat is: 0.634000
+
 - CCRn of deer is: 0.776000
+
 - CCRn of dog is: 0.772000
+
 - CCRn of frog is: 0.940000
+
 - CCRn of horse is: 0.852000
+
 - CCRn of ship is: 0.848000
+
 - CCRn of truck is: 0.956000
+
