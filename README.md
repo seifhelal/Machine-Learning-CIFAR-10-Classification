@@ -4,7 +4,7 @@ These are my assignments for Practical Machine Deel Learning Course CS4930 at AU
 
 1- KNN and Least Square
 
-2- Multi-layer FullyConnected Neural Network (NN) classifier using my own implmentation and Keras API.
+2- Multi-layer Fully Connected Neural Network (NN) classifier using my own implmentation and Keras API.
 
 3-Convolutional Neural Network (CNN) and Res-Net classifier using my own implmentation and Keras API. 
 
