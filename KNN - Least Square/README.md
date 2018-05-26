@@ -1,4 +1,5 @@
 **K nearest neighbor (k-NN) classifier that can recognize the 10 different classes in the CIFAR-10 dataset.**
+
 •	The accuracies for validation in 3 cross fold validation and its K:
 -	k = 1, accuracy = 0.307808
 -	k = 1, accuracy = 0.303904
@@ -44,6 +45,7 @@ It was found that K=8 is the best K to be used. It was chosen because it has the
 Note: The 10,000 pictures used in the training has an equal amount of each class, moreover, the testing data used to provide CCRn and ACCR were the 10,000 pictures provided by CIFAR-10 for testing.  
 
 **Linear least square classifier (LLS) that can best recognize the 10 different classes in the CIFAR-10 dataset.**
+
 •	Correct Classification Rate for each of the 10 Classes (CCRn) and Average Correct Classification Rate (ACCR) is reported below: 
 -	ACCR of the testing is: 0.363700
 -	CCRn of plane is:  0.469000
