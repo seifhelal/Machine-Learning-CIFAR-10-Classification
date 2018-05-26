@@ -1,1 +1,0 @@
-KNN and Least Square 
